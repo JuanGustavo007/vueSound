@@ -1,0 +1,17 @@
+.reprodutor {
+   cursor: pointer;
+}
+
+
+.altura img{
+   height: 250px;
+}
+.altura:hover{
+   transform: scale(1.02);
+   transition-delay:100ms ease;
+   
+}
+
+.letra{
+   font-size: 0.875rem;
+}
